@@ -1,1 +1,0 @@
-int diff(int,int);

@@ -1,1 +1,0 @@
-int triangle(int,int);
